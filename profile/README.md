@@ -1,7 +1,9 @@
 # BitcoinerLAB
 
 ## Introduction
-Welcome to BitcoinerLAB, dedicated to making Bitcoin development easier and more accessible. We specialize in providing a suite of JavaScript/TypeScript modules that streamline the creation of Bitcoin applications. Embracing the latest in Bitcoin technology, we are excited about the potential of Bitcoin Descriptors, especially those based on Miniscript, to transform the landscape of Bitcoin app development. Our tools are designed to unlock these new capabilities for developers, fostering innovation and efficiency in the Bitcoin ecosystem.
+Welcome to BitcoinerLAB, dedicated to making Bitcoin development easier and more accessible. We provide a suite of JavaScript/TypeScript modules that streamline the creation of Bitcoin applications.
+
+We are focused on utilizing the latest Bitcoin technologies, particularly Bitcoin Descriptors and Miniscript, to advance Bitcoin app development.
 
 ## About Us
 At BitcoinerLAB, we began our journey while crafting a Bitcoin cold storage time-lock wallet. Our aim is to share our developed modules with the wider community, facilitating the creation of diverse Bitcoin applications and wallets.
