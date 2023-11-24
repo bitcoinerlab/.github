@@ -16,16 +16,16 @@ At BitcoinerLAB, we offer a comprehensive range of open-source libraries and pro
 
 ### Libraries (Modules)
 These core tools provide essential functionalities for Bitcoin application development:
-1. [**Descriptors**](https://github.com/bitcoinerlab/descriptors): For parsing and signing Bitcoin descriptors, including Miniscript language elements.
-2. [**Discovery**](https://github.com/bitcoinerlab/discovery): Assists in retrieving Bitcoin funds from ranged descriptors.
-3. [**Coinselect**](https://github.com/bitcoinerlab/coinselect): Optimizes UTXO selection and transaction size calculations for Bitcoin transaction management.
+1. [**Descriptors**](https://github.com/bitcoinerlab/descriptors): For parsing and signing Bitcoin descriptors, including Miniscript expressions.
+2. [**Discovery**](https://github.com/bitcoinerlab/discovery): Assists in retrieving data from the Bitcoin network. It supports querying using Bitcoin descriptors.
+3. [**Coinselect**](https://github.com/bitcoinerlab/coinselect): For UTXO selection. It leverages Descriptors to define inputs and outputs.
 4. [**Miniscript**](https://github.com/bitcoinerlab/miniscript): A compiler and standalone Satisfier for Bitcoin Miniscript.
 5. [**Explorer**](https://github.com/bitcoinerlab/explorer): Provides unified access to Electrum and Esplora servers for retrieving blockchain data.
 6. [**Secp256k1**](https://github.com/bitcoinerlab/secp256k1): Facilitates cryptographic functions for elliptic curve operations on the secp256k1 curve.
 
 ### Projects
 These are practical applications and demonstrations of our libraries:
-1. **Playground**: Interactive, browser-based demos for learning Bitcoin transactions without installation. [Explore Playgrounds](https://bitcoinerlab.com/guides)
+1. **Playground**: Interactive, browser-based demos for learning Bitcoin transactions without installation. These demos are used extensively in the [guides available on our site](https://bitcoinerlab.com/guides).
 2. [**Vault Showcase**](https://github.com/bitcoinerlab/VaultShowcase): A native mobile app demo project, showcasing the practical application of our libraries in creating a secure Bitcoin vault.
 
 ## Contribute
