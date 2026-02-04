@@ -37,3 +37,8 @@ We welcome contributions from the community! If you're interested in improving B
 For more information or inquiries:
 - X: [@landabaso](https://x.com/landabaso)
 - Website: [bitcoinerlab.com](https://bitcoinerlab.com)
+
+## 🙏 Supporters 
+The BitcoinerLAB Project is proudly supported by the [OpenSats](https://opensats.org) organization.
+
+[![OpenSats logo](./assets/opensats.svg)](https://opensats.org)
