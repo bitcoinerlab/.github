@@ -4,8 +4,9 @@
 
 This policy applies to actively maintained BitcoinerLab repositories.
 
-Repositories marked as **archived** or **deprecated** are historical projects
-and are not part of the currently supported or security-reviewed codebase.
+Repositories marked as **archived** or **deprecated**, including historical
+projects and contribution forks, are outside the scope of BitcoinerLab's
+currently supported and security-reviewed codebase.
 
 Security reports are welcome for actively maintained BitcoinerLab projects.
 
