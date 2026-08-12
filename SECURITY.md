@@ -1,14 +1,24 @@
 # Security Policy
 
-Security reports are welcome for all BitcoinerLAB projects.
+## Scope
 
-If you believe you have found a security vulnerability, **please do not open a public issue, pull request or discussion containing details of the vulnerability.**
+This policy applies to actively maintained BitcoinerLab repositories.
+
+Repositories marked as **archived** or **deprecated** are historical projects
+and are not part of the currently supported or security-reviewed codebase.
+
+Security reports are welcome for actively maintained BitcoinerLab projects.
+
+If you believe you have found a security vulnerability, **please do not open a
+public issue, pull request or discussion containing details of the
+vulnerability.**
 
 ## Reporting a vulnerability
 
-The preferred method is to use **GitHub Private Vulnerability Reporting** for the affected repository:
+The preferred method is to use **GitHub Private Vulnerability Reporting** for
+the affected repository:
 
-**Security → Advisories → Report a vulnerability**
+`Security → Advisories → Report a vulnerability`
 
 Alternatively, you can contact me directly:
 
@@ -16,7 +26,8 @@ Alternatively, you can contact me directly:
 * Telegram: [@landabaso](https://t.me/landabaso)
 * X/Twitter DM: [@landabaso](https://x.com/landabaso)
 
-For sensitive technical details or proof-of-concept exploits, GitHub Private Vulnerability Reporting is preferred.
+For sensitive technical details or proof-of-concept exploits, GitHub Private
+Vulnerability Reporting is preferred.
 
 Please include, when possible:
 
@@ -27,6 +38,8 @@ Please include, when possible:
 
 ## Disclosure
 
-Please allow reasonable time to investigate and address the issue before publicly disclosing it.
+Please allow reasonable time to investigate and address the issue before
+publicly disclosing it.
 
-Security fixes generally target the latest released version and the current main branch unless stated otherwise.
+Security fixes generally target the latest released version and the current
+main branch unless stated otherwise.
